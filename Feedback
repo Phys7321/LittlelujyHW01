@@ -1,0 +1,2 @@
+# Feedback
+The code and graphs look good. The only thing that I would like is for future assignments to be self-contained - meaning I'd like to be able to run it with the only files in the repository. I couldn't do that with this assignment because in the MATLAB notebook you didn't include derdata.mat and in the python notebook was having problems dividing by zero. 
